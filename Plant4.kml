@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>4.kml</name>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>1.125</scale>
+			<Icon>
+				<href>Layer0_Symbol_137d4650_0_2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_00003">
+		<name>4</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#9CBCE2">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="center">
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">1.jpeg</a></td>
+
+<td><a target="_blank" href="">1.jpg</a></td>
+
+</tr>
+
+<tr align="left" bgcolor="#D4E4F3">
+
+<td><a target="_blank" href="">2.jpeg</a></td>
+
+<td><a target="_blank" href="">2.jpg</a></td>
+
+</tr>
+
+<tr align="left" bgcolor="white">
+
+<td><a target="_blank" href="">3.jpeg</a></td>
+
+<td><a target="_blank" href="">3.jpg</a></td>
+
+</tr>
+
+<tr align="left" bgcolor="#D4E4F3">
+
+<td><a target="_blank" href="">4.jpg</a></td>
+
+<td><a target="_blank" href=""></a></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>S_No</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Farmer_Nam</td>
+
+<td>Jawad Aslam Choudhry</td>
+
+</tr>
+
+<tr>
+
+<td>Contact</td>
+
+<td>3008555699</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Mouza</td>
+
+<td>Basti Abdullah</td>
+
+</tr>
+
+<tr>
+
+<td>Approach_R</td>
+
+<td>Dulha Chakri Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Latitude</td>
+
+<td>33.194371</td>
+
+</tr>
+
+<tr>
+
+<td>Longiture</td>
+
+<td>72.698802</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Irrigation</td>
+
+<td>Flood</td>
+
+</tr>
+
+<tr>
+
+<td>WS_Subsidy</td>
+
+<td>N</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tehsil</td>
+
+<td>Rawalpindi</td>
+
+</tr>
+
+<tr>
+
+<td>District</td>
+
+<td>Chakwal</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Plants</td>
+
+<td>675</td>
+
+</tr>
+
+<tr>
+
+<td>Mortality</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acres</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>Date</td>
+
+<td>03-Mar-16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Arb_15</td>
+
+<td>337</td>
+
+</tr>
+
+<tr>
+
+<td>Frantio_9</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gemlik_5</td>
+
+<td>338</td>
+
+</tr>
+
+<tr>
+
+<td>K_31</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Pen_39</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#IconStyle00</styleUrl>
+		<Point>
+			<coordinates>72.69880200011227,33.19437099972191,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
